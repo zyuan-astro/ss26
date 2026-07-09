@@ -8,3 +8,6 @@
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+# folder in prep
+/notebook_prep/
