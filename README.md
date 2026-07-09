@@ -10,6 +10,7 @@
 
 
 [Lecture Slides](https://box.nju.edu.cn/d/6db37e3860914d80bf57/)
+[Presentation Slides](https://www.kdocs.cn/join/g6dlvo6)
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
