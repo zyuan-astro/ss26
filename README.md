@@ -1,4 +1,4 @@
-# Introduction to Statistics for Astronomy (Summer school 2025 )
+# Introduction to Statistics for Astronomy (Summer school 2026 )
 
 **School of Astronomy and Space Science Nanjing University**
 
